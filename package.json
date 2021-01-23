@@ -1,0 +1,19 @@
+{
+  "name": "mg-react-loader-getdata",
+  "version": "0.0.1",
+  "description": "lib de apresentação de loader e busca de dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudio-Magalhaes/mg-react-loader-getData.git"
+  },
+  "author": "Claudio magalhães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudio-Magalhaes/mg-react-loader-getData/issues"
+  },
+  "homepage": "https://github.com/Claudio-Magalhaes/mg-react-loader-getData#readme"
+}
